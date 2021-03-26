@@ -1,0 +1,7 @@
+name: SkTarna
+version: ${project.version}
+main: me.tarna.sktarna.SkTarna
+api-version: 1.16
+depend: [ Skript ]
+authors: [ Tarna ]
+description: A Skript Addon
